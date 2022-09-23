@@ -2,6 +2,11 @@
 Jira Python Library
 ===================
 
+Disclaimer
+----------
+
+THIS IS NOT THE OFFICIAL REPO, JUST A QUICK FIX REPO WHILE WAITING TO INTEGRATE THIS FIX IN OFFICIAL REPO
+
 .. image:: https://img.shields.io/pypi/v/jira.svg
     :target: https://pypi.python.org/pypi/jira/
 
